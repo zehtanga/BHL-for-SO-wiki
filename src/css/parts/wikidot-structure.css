@@ -514,7 +514,7 @@ div[id*="page-options-bottom"] {
 		}
 
 		&#edit-button {
-			--button-icon: var(--edit-mask);
+			--button-icon: url('src/img/page-toolbar-icons/edit-icon.svg');
 		}
 
 		&#pagerate-button,
